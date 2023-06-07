@@ -1,1 +1,1 @@
-Learning the foundations of machine learning
+Revisiting the foundations of machine learning
